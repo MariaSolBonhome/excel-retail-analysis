@@ -1,6 +1,6 @@
 # Maven Roasters — Análisis Operativo
 
-> También disponible en [English](README-ENG.md)
+> Disponible en / available in [English](README-ENG.md)
 
 ---
 
