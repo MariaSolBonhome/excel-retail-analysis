@@ -1,6 +1,6 @@
 # Maven Roasters — Operational Analysis
 
-> También disponible en [español](README-ESP.md)
+> Available in / disponible en [español](README-ESP.md)
 
 ---
 
